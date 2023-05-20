@@ -186,7 +186,7 @@ button:focus {
 }
 .navbar-light .navbar-brand,
 .navbar-light .navbar-brand:hover {
-  width: 95px;
+  width: 110px;
 }
 .main-nav {
   background: #fff;
@@ -4117,4 +4117,13 @@ footer {
 .buy-now-btn:hover {
   color: #fff;
   background-color: #94be5d;
+}
+
+.footer-email {
+  margin-top: 8px;
+}
+
+.nav-logo {
+  width: 140px;
+  height: 60px;
 }
