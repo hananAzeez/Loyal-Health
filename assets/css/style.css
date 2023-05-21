@@ -583,6 +583,7 @@ button:focus {
   animation: a-one 5s infinite linear;
   background-color: #0046c0;
 }
+/* #3CECDB light color of the logo */
 .about-left:after {
   position: absolute;
   content: "";
@@ -1429,13 +1430,13 @@ footer {
   background: #9dbdfc;
 }
 .slider-item-img-two {
-  background-image: url(../img/home-two/slider/1.jpg);
+  background-image: url(../img/home-two/slider/6.jpg);
 }
 .slider-item-img-three {
   background-image: url(../img/home-two/slider/2.jpg);
 }
 .slider-item-img-four {
-  background-image: url(../img/home-two/slider/3.jpg);
+  background-image: url(../img/home-two/slider/1.jpg);
 }
 .home-slider-two .owl-prev {
   background-color: #bdcce2 !important;
