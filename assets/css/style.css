@@ -4135,3 +4135,10 @@ footer {
 .email-footer-1 {
   padding-top: 10px;
 }
+
+/* ====== */
+.about-left-new img {
+  width: 100%;
+  z-index: 1;
+  border-radius: 10px;
+}
