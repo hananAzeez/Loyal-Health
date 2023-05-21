@@ -4128,3 +4128,10 @@ footer {
   width: 140px;
   height: 60px;
 }
+
+.email-footer {
+  padding-bottom: 8px;
+}
+.email-footer-1 {
+  padding-top: 10px;
+}
