@@ -2079,11 +2079,13 @@ footer {
 .hospital-item ul {
   margin: 0;
   padding: 0;
+  margin-top: 20px;
   margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
 }
 .hospital-item ul li {
   list-style-type: none;
-  display: block;
   font-weight: 500;
   font-size: 18px;
   color: #111;
@@ -4141,4 +4143,57 @@ footer {
   width: 100%;
   z-index: 1;
   border-radius: 10px;
+}
+
+.services-item ul li {
+  list-style-type: none;
+  display: block;
+  font-weight: 500;
+  font-size: 18px;
+  color: #111;
+  margin-bottom: 20px;
+}
+.services-item ul li:last-child {
+  margin-bottom: 0;
+}
+.services-item ul li i {
+  color: #6096fd;
+  font-size: 22px;
+  margin-right: 8px;
+  position: relative;
+  bottom: -1px;
+}
+
+.services-item ul {
+  margin: 0;
+  padding: 0;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.services-item ul li {
+  list-style-type: none;
+  display: block;
+  font-weight: 500;
+  font-size: 18px;
+  color: #111;
+  margin-bottom: 20px;
+}
+.services-item ul li:last-child {
+  margin-bottom: 0;
+}
+.services-item ul li i {
+  color: #6096fd;
+  font-size: 22px;
+  margin-right: 8px;
+  position: relative;
+  bottom: -1px;
+}
+
+.services h2 {
+  font-weight: 700;
+}
+.services h3 {
+  color: #4a6f8a;
+  font-size: 24px;
+  margin: 20px 0;
 }
