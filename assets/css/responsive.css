@@ -5,6 +5,7 @@
   p {
     line-height: 1.7;
   }
+
   .ptb-100 {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -17,6 +18,21 @@
   }
   .pb-100 {
     padding-bottom: 50px;
+  }
+  .about-area {
+    padding-top: 100px;
+  }
+  .expertise-area {
+    padding-top: 100px;
+  }
+  .expertise-area img {
+    display: none;
+  }
+  .services-area {
+    padding-top: 100px;
+  }
+  .location-area {
+    padding-top: 20px;
   }
   .header-top {
     padding-top: 15px;
@@ -403,6 +419,7 @@
   }
   .page-title-area {
     height: 280px;
+    display: none;
   }
   .page-title-four .page-title-item {
     margin-top: 55px;

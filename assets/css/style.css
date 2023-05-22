@@ -116,6 +116,7 @@ button:focus {
   border-bottom: 1px solid #f2f2f2;
   background-color: #fff;
   z-index: 1;
+  display: none;
 }
 .header-top-item .header-top-left ul {
   margin: 0;
